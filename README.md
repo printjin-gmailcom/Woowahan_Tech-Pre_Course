@@ -13,3 +13,8 @@
 
 ## **관련 사이트**
 https://www.woowacourse.io/
+
+- https://github.com/woowacourse-precourse/java-calculator-7
+- https://github.com/woowacourse-precourse/java-lotto-7
+- https://github.com/woowacourse-precourse/java-racingcar-7
+- https://github.com/woowacourse-precourse/java-convenience-store-7
